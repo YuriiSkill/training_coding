@@ -20,6 +20,8 @@ let a = prompt('один из последних просмотренных фи
 
     console.log(personalMovieDB);
 
+    
+
 
 // мой вариант
 // let question=[];
